@@ -22,6 +22,8 @@ These files included;
 
 -csv file which enables the drunks to be exchanged and listed on the model.
 
+-drunk.plan.txt was imported to help read the code.
+
 -Agentframework was used in order to establish drunks in the environment which helps in initialising the drunks, return the description of a drunk as astring of a text etc.
 
 -Matplotlib.pyplot was imported to allow plotting of drunks , pubs, houses and make them visible on the screen for any code reader to easily understand what is going on in the model.

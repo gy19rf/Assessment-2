@@ -18,6 +18,8 @@ Some important files were imported to the model to make the drunks able to move 
 
 These files included;
 
+-First and foremost, the import operator was used to import all files and functions to create an agent based model.
+
 -csv file which enables the drunks to be exchanged and listed on the model.
 
 -Agentframework was used in order to establish drunks in the environment which helps in initialising the drunks, return the description of a drunk as astring of a text etc.

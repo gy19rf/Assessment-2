@@ -80,6 +80,27 @@ for a in range(300):
         if environment[a][b] == 1:
             
             environment[a][b]= 99
+            
+            
+The movement of drunks from the pub to their homes were tested using this line of code:
+
+while (True):
+    
+    if (iteration % 1000 == 0):
+        
+        print("iteration",iteration) #testing the code to know how the drunks were able 
+                                    
+                                    #to move to thier homes through a number of iterations
+    
+    for i in range(num_of_drunks):
+        
+        # If the drunks are not at home, move
+        
+        #while self.arrived_home == false: 
+        
+        if drunks[i].arrived_home == False:
+            
+            runks[i].move()
            
     
 

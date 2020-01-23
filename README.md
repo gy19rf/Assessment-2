@@ -10,6 +10,8 @@ Module Title: Programming for Geographical Information Analysis (Core skills)
 
 Module Code: GEOG5990M
 
+Intoduction: Purpose of this project
+
 This independent project allowed me to build an Agent-Based Model (ABM) that shows the movement of drunks a pub in finding their way home as well as stopping thier movement as they reach their homes.
 
 Some important files were imported to the model to make the drunks able to move from the pub to their respective homes. 

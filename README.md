@@ -51,7 +51,7 @@ This made all the drunks to stop moving after reaching their homes.
 
 Again, after making sure that all drunks have stopped moving, I realized that the 15th drunk is still at the pub. I saw that the color of the pub and that of the house of the drunk are the same. I also thought that the house of the drunk and the pub could have similar x and y coordinate numbers. This may make the drunk to feel that he is already at home.
 
-License: This drunk model has a licensing document attached, which explains the terms and conditions for  
+License: This drunk model has a licensing document attached, which explains the terms and conditions for copying, distribution and modification of this drunk model. 
 
 
 

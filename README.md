@@ -53,6 +53,33 @@ This made all the drunks to stop moving after reaching their homes.
 
 Again, after making sure that all drunks have stopped moving, I realized that the 15th drunk is still at the pub. I saw that the color of the pub and that of the house of the drunk are the same. I also thought that the house of the drunk and the pub could have similar x and y coordinate numbers. This may make the drunk to feel that he is already at home.
 
+Below is how I convinced the 15th  drunk to move from the pub to his house:
+
+The reason why the 15th drunk refused to move to his home is because, I assigned 150 to the environment when making the pub visible on the model screen. This line of code below made the drunk to stay at the pub 
+
+for a in range(300):
+    
+    for b in range(300):
+        
+        if environment[a][b] == 1:
+            
+            environment[a][b]= 150
+
+
+I therefore changed the environment setting to 99. This made the drunk to move from the pub to his home. Below is the line of code used;
+
+
+for a in range(300):
+    
+    for b in range(300):
+        
+        if environment[a][b] == 1:
+            
+            environment[a][b]= 99
+           
+    
+
+
 License: This drunk model has a licensing document attached, which explains the terms and conditions for copying, distribution and modification of this drunk model. 
 
 

@@ -34,13 +34,19 @@ How the Drunk model can be run:
 Below are the steps involved in running the Drunk model:
 
 -The Drunk model can be run by clicking on the run file or pressing the F5 button in the anaconda spyder (version 3.7) python software.
+ Always make sure that inline is set before you run the model.
 
 What happens after running the model:
-After running the code, you will see that all the drunks has successfully arrived home. None of these drunks is expected to be wandering around to find their way home. 
+
+After running the code, you will see the number of iterations at which each of the drunks arrived home is being displayed in the Ipython console. 
+Also, the drunk model figure will be displayed, showing that each drunk has successfully reached their home. You will see that all the drunks has successfully arrived home. None of these drunks is expected to be wandering around to find their way home. 
+
 
     
 License: This drunk model has a licensing document attached, which explains the terms and conditions for copying, distribution and modification of this drunk model. 
 
+
+NOTE: For more details about how the software works, please refer to the document explaining the details about the drunk model software.
 
 
 
